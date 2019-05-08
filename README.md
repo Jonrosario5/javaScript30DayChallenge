@@ -3,4 +3,6 @@
 
 Completed Challenge 1
 
+<img src="/drum kit set.png" />
+
 JS Drum Kit Set
