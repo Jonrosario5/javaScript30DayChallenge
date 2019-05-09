@@ -6,3 +6,9 @@ Completed Challenge 1
 <img src="Drumset.png" />
 
 JS Drum Kit Set
+
+Completed Challenge 2 
+
+<img src="../JS and CSS Clock/clockJS.png" />
+
+JS Clock
