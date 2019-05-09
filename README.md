@@ -9,6 +9,6 @@ JS Drum Kit Set
 
 Completed Challenge 2 
 
-<img src="../" />
+<img src="../JS and CSS Clock/clockJS.png" />
 
 JS Clock
