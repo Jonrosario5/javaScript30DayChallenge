@@ -15,19 +15,13 @@ JS Clock
 
 Completed Challenge 3
 
-<div style="display:flex">
 
-<div>
 Blurred
-<img src="/ClockJS/clockJs.png" />
-</div>
+<img src="/CSSVariables/blur.png" />
 
-<div>
 Clear
-<img src="/ClockJS/clockJs.png" />
-</div>
+<img src="/CSSVariables/clear.png" />
 
-</div>
 
 
 CSS Variables - The inputs change the blur, background color and spacing. 
