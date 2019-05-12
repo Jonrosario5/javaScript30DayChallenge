@@ -25,3 +25,8 @@ Clear
 
 
 CSS Variables - The inputs change the blur, background color and spacing. 
+
+Completed Challenge 4
+
+Array Cardio Sprint. Included reduce, map, filter and sort Array methods. 
+
