@@ -35,4 +35,4 @@ Completed Challenge 5
 
 FlexPanels
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-8f91bf9fb2c1.gif"/>
+<img src="/FlexPanels/FlexPanels.gif"/>
