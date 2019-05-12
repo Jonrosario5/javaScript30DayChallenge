@@ -30,4 +30,4 @@ Completed Challenge 4
 
 Array Cardio Sprint. Included reduce, map, filter and sort Array methods. 
 
-<img src="Jon.mov" />
+<img src="/Jon.mov" />
