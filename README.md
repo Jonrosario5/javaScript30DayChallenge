@@ -36,3 +36,9 @@ Completed Challenge 5
 FlexPanels
 
 <img src="/FlexPanels/FlexPanels.gif"/>
+
+Completed Challenge 6
+
+TypeAhead
+
+<img src="/typeAhead/AutoFill.gif"/>
