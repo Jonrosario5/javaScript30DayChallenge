@@ -45,6 +45,8 @@ TypeAhead
 
 Completed Challenge 7
 
+Array Cariod. Practicing using find(),findIndex(), every(), some() array methods. 
+
 <img src="/ArrayCardio2/Code1.png"/>
 <img src="/ArrayCardio2/Code2.png"/>
 
