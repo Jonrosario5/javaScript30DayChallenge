@@ -42,3 +42,12 @@ Completed Challenge 6
 TypeAhead
 
 <img src="/typeAhead/AutoFill.gif"/>
+
+Completed Challenge 7
+
+Array Cardio. Practicing using find(),findIndex(), every(), some() array methods. 
+
+<img src="/ArrayCardio2/Code1.png"/>
+<img src="/ArrayCardio2/Code2.png"/>
+
+
