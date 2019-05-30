@@ -54,3 +54,7 @@ Array Cardio. Practicing using find(),findIndex(), every(), some() array methods
 Completed Challenge 8
 
 <img src="/CanvasPractice/Canvas.gif"/>
+
+Completed Challenge 9
+
+<img src="/CheckBoxes/CheckedBoxes.gif"/>
