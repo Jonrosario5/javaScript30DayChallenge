@@ -53,13 +53,19 @@ Array Cardio. Practicing using find(),findIndex(), every(), some() array methods
 
 Completed Challenge 8
 
+Canvas Paint Brush
+
 <img src="/CanvasPractice/Canvas.gif"/>
 
 Completed Challenge 9
+
+Dynamic Checkboxes
 
 <img src="/CheckBoxes/CheckedBoxes.gif"/>
 
 
 Completed Challenge 10
+
+Custom Video Buttoms 
 
 <img src="/CustomVideoPlayer/videoedit.gif"/>
