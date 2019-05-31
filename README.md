@@ -58,3 +58,8 @@ Completed Challenge 8
 Completed Challenge 9
 
 <img src="/CheckBoxes/CheckedBoxes.gif"/>
+
+
+Completed Challenge 10
+
+<img src="/CustomerVideoPlayer/videoedit.gif"/>
