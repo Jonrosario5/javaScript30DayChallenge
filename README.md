@@ -69,3 +69,9 @@ Completed Challenge 10
 Custom Video Buttoms 
 
 <img src="/CustomVideoPlayer/videoedit.gif"/>
+
+Completed Challenge 11
+
+Key Sequence Detection (Easter Egg)
+
+<img src="/keySequence/keysequence.gif"/>
