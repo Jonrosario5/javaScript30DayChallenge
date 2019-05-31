@@ -62,4 +62,4 @@ Completed Challenge 9
 
 Completed Challenge 10
 
-<img src="/CustomerVideoPlayer/videoedit.gif"/>
+<img src="/CustomVideoPlayer/videoedit.gif"/>
