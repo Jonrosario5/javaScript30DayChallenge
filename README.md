@@ -75,3 +75,9 @@ Completed Challenge 11
 Key Sequence Detection (Easter Egg)
 
 <img src="/keySequence/keysequence.gif"/>
+
+Completed Challenge 12
+
+Slide In Effect 
+
+<img src="/SlideInEffect/slidein.gif"/>
