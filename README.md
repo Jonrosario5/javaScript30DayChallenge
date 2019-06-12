@@ -85,4 +85,5 @@ Slide In Effect
 Completed Challenge 13
 
 Local Storage & Event Delegation
+
 <img src="/LocalStorage/LocalStorage.gif"/>
