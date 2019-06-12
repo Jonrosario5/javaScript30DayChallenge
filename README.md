@@ -81,3 +81,9 @@ Completed Challenge 12
 Slide In Effect 
 
 <img src="/SlideInEffect/slidein.gif"/>
+
+Completed Challenge 13
+
+Local Storage & Event Delegation
+
+<img src="/LocalStorage/LocalStorage.gif"/>
